@@ -59,3 +59,51 @@ Tópicos:
 ## ▶️ Como Executar
 
 1. Clone o repositório:
+
+
+
+2. Abra o código na Arduino IDE
+
+3. Configure:
+- Wi-Fi
+- Broker MQTT
+
+4. Execute no ESP32 ou simule no Wokwi
+
+---
+
+## 📊 Resultados
+
+O sistema apresentou:
+
+- Tempo médio de resposta < 1s
+- Comunicação MQTT eficiente
+- Funcionamento estável
+
+---
+
+## 🎥 Vídeo de Demonstração
+
+👉 (LINK DO YOUTUBE)
+
+---
+
+## 📄 Artigo Científico
+
+Disponível em:
+`/docs/artigo.pdf`
+
+---
+
+## 👨‍💻 Autores
+
+Beatriz Aparecida Meira Portella
+Lucas Meira de Lima
+
+---
+
+## 📚 Referências
+
+- IBM (2021) - MQTT
+- Santos et al. (2016) - IoT
+- Ayaz et al. (2019) - Smart Agriculture
