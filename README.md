@@ -58,7 +58,7 @@ Tópicos:
 
 ## ▶️ Como Executar
 
-1. Clone o repositório:
+1. Clone o repositório: https://github.com/BeatrizPortella/irrigacao-iot-esp32.git
 
 
 
