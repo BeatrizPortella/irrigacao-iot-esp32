@@ -98,6 +98,7 @@ Disponível em:
 ## 👨‍💻 Autores
 
 Beatriz Aparecida Meira Portella
+
 Lucas Meira de Lima
 
 ---
