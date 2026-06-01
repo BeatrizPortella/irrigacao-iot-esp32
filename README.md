@@ -84,7 +84,7 @@ O sistema apresentou:
 
 ## 🎥 Vídeo de Demonstração
 
-👉 [(LINK DO YOUTUBE)](https://youtu.be/z_wCrIn4tbk  )<img width="442" height="28" alt="image" src="https://github.com/user-attachments/assets/25c01321-3734-48d8-85f2-490f5b96a3ba" />
+👉 [(LINK DO YOUTUBE)] https://youtu.be/z_wCrIn4tbk
 
 
 ---
